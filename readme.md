@@ -18,4 +18,5 @@
 
 ## run with docker 
 
+`docker build -t node-util .`
 `docker run -it -v "$(pwd):/app" node-util install`
